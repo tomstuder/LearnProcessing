@@ -1,11 +1,11 @@
 void setup() {
-size(200,200);
-
+  size(200,200);
+  background(255);
 }
 
 
 void draw() {
-  background(255);
+
   stroke(0);
   fill(175);
   rectMode(CENTER);
